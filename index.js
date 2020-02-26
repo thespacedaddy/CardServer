@@ -46,5 +46,5 @@ io.on('connection', (socket) => {
 
 // Start HTTP server
 http.listen(3000, function() {
-  console.log('listening on 3000');
+  console.log('Server is now Online');
 });
